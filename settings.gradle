@@ -1,0 +1,2 @@
+include ':sample', ':mapmarkeranimation'
+rootProject.name = "MapMarkerAnimation"

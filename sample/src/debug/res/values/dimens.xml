@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="vertical_margin">8dp</dimen>
+    <dimen name="horizontal_margin">12dp</dimen>
+    <dimen name="info_window_space">20dp</dimen>
+    <dimen name="point_name_margin">40dp</dimen>
+</resources>
